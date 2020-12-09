@@ -4,5 +4,5 @@ import App from "./App";
 
 let el = document.getElementById("app");
 
-const render = () => ReactDOM.render(<App name="yuhei" />, el);
+const render = () => ReactDOM.render(<App />, el);
 render();
